@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pranatim19
+- 👋 Hi, I’m Pranati
 - 👀 I’m interested in Data Analytics and Business Analytics.
 - 🌱 I’m currently working as a Data Analyst
 - 💞️ I’m looking to collaborate on data analytics projects
